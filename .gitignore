@@ -1,0 +1,9 @@
+# non-source directories
+bin/
+chess_debug/
+
+# certain files
+*.swp
+.DS_Store
+src/tags
+
